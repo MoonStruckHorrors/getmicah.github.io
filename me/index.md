@@ -2,13 +2,13 @@
 layout: about
 ---
 
-Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
+Nikhil Vyas is a Programmer who is pursuing his Masters in CS from BITS Pilani (Goa), graduating in June 2016. Currently he's working as an intern at MathWorks India.
 
-# What do you do?
-I make website and stuff. All the code I write is on my [Github](https://github.com/getmicah).
+As you must have figured by now, he likes writing about himself in Third Person.
+He likes programming in C/C++, Java, Python & C#; among other languages. He's interested in "everything programming" in general. 
 
-# Who are your favorite artsits?
-Currently I'm listening to a lot of Anderson Paak and Common.
+In his free time, he likes playing Flight Simulators, Strategy & First Person Shooter video games. He also likes to listen to Ambient/Post-Rock/Alternative Rock or anything that comes up on his Last.fm(RIP), Grooveshark(RIP), local library on shuffle or Spotify(running through VPN).
 
-# What programming languages do you use?
-When making websites I like using Javascript and Sass but I also like Python and bash for making linux scripts.
+Sometimes he plays Table Tennis or Cricket; both of which he is bad at.
+
+He's actively seeking a employment as a Software Developer. I've heard he's good at it. Since you've visited this page, have a complimentary Résumé.

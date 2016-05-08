@@ -5,17 +5,22 @@ layout: default
 {% include header.html %}
 
 <div class="portfolio">
-    <h1>Web Design:</h1>
-    <ul>
+    <h1>Contact:</h1>
+        <br/>
+        <p>
         {% for websites in site.data.websites %}
-        <li>
-            <a href="{{ websites.url }}">{{ websites.url }}</a>
-        </li>
+            <a href="{{ websites.url }}">{{ websites.name }}</a> ||
         {% endfor %}
-    </ul>
+            <a href="mailto:nikhilvyas07@gmail.com">E-Mail</a>
+        </p>
+    <br/> <br/>
+    <h1>Looking for a Software Developer?</h1>
+    <br/>
+    <p> <a href="/Resume_NikhilVyas.pdf">Résumé</a> </p>
 </div>
 
-
+<!--
+When I have a proper design in mind, this would get uncommented.
 <div class="blog">
     <h1>Blog Posts:</h1>
     <ul>
@@ -26,3 +31,4 @@ layout: default
         {% endfor %}
     </ul>
 </div>
+-->
